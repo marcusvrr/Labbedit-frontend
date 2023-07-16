@@ -1,0 +1,1 @@
+export const BASE_URL = "https://labbedit-backend-89fk.onrender.com"
