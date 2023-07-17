@@ -6,6 +6,8 @@ O Labbedit é uma API de rede social com o objetivo de promover a conexão e int
 
 ## links:
 
+- Deploy do front: [marcusvrr-labeddit-frontend.surge.sh](marcusvrr-labeddit-frontend.surge.sh)
+
 - Labeddit-Back-end: [clique aqui!](https://github.com/marcusvrr/Labbedit-backend)
 
 - Documentação do Postman: [clique aqui!](https://documenter.getpostman.com/view/24823090/2s946feYpm)
